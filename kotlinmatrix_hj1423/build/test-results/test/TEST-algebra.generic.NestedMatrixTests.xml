@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="algebra.generic.NestedMatrixTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-03T00:04:39" hostname="DESKTOP-N6JMNQK" time="0.036">
+  <properties/>
+  <testcase name="left and right multiplication by matrix scalar" classname="algebra.generic.NestedMatrixTests" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
